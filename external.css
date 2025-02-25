@@ -1,0 +1,34 @@
+     .navbar {
+        background: red; width: 100%; text-align: center;padding: 5px 0;
+    }
+    .nav {
+        font-size: 50px;
+    }
+
+    .introductory {
+        background: green; width: 100%; text-align: center;padding: 200px 0;
+    }
+    .intro {
+        font-size: 50px;
+    }
+
+    .section2 {
+        background: blue; width: 50%; float: right; text-align: center;padding: 200px 0;
+    }
+    .sec {
+        font-size: 50px;
+    }
+
+    .section3 {
+        background: red; width: 50%; text-align: center;padding: 200px 0;
+    }
+    .sec3 {
+        font-size: 50px;
+    }
+
+    .footer {
+        background: orange; width: 100%; text-align: center;padding: 100px 0;
+    }
+    .foot {
+        font-size: 50px;
+    }
